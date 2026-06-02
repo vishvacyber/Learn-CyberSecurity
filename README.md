@@ -1,4 +1,4 @@
-# 90-Day Cybersecurity Study Plan
+# Day 1 to Day 100 - Cybersecurity Study Plan
 
 ## 📚 Table of Contents
 
