@@ -20,8 +20,8 @@
 
 ## 📘 Introduction
 
-Welcome to the **90 Days of Cybersecurity** challenge!  
-This repository provides a structured, 90-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
+Welcome to the **100 Days of Cybersecurity** challenge!  
+This repository provides a structured, 100-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
 
 The daily modules cover essential and advanced topics, including:
 
@@ -41,7 +41,7 @@ Each day is designed with actionable tasks, tutorials, and reading materials to 
 
 ### 📌 Goals
 
-The primary goal of this 90-day plan is to help learners:
+The primary goal of this 100-day plan is to help learners:
 
 - Build a solid foundation in core cybersecurity concepts and practices.
 - Gain hands-on experience through daily exercises and real-world tools.
