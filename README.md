@@ -159,7 +159,7 @@ Look for opportunities on LinkedIn: https://linkedin.com
 
 ## 🎉 Contributors
 
-Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.
+Thank you for being a part of the 100DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.1
 
 ### Contribution Categories:
 - **Documentation**: Improve or add to the study material and guides.
